@@ -15,4 +15,5 @@ const getTokenFromHeaders = req => {
     }
     return null
 }
+
 module.exports = { isAuthenticated }
